@@ -75,7 +75,7 @@ Presaberes
               TABLE
             </td>
             <td>
-              es una tabla, y dentro de esta tenemos filas <tr> y celdas <td>.
+              es una tabla, y dentro de esta tenemos filas <tr> y celdas
             </td>
          </tr>
          <tr> 
@@ -100,8 +100,8 @@ Presaberes
             </td>
             <td> 
               los textos dentro de esta etiqueta se estructuran en listas. 
-              Mediante el uso de <li> definimos cada guión dentro  
-              de la lista, y usando <ol> en lugar de <ul> tendremos listas ordenadas
+              Mediante el uso de li definimos cada guión dentro  
+              de la lista, y usando ol en lugar de ul tendremos listas ordenadas
             </td>
          </tr>
          <tr>
