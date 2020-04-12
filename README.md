@@ -17,12 +17,19 @@ Presaberes
           Correo personal: sanjoguti71284.25@gmail.com
       </h2>
        <style>
-    h2 { color:  #FFFF00; }
+    h2 { color:  #FFFF00; }     
+   </style>
+  <style type="text/css">
+       table, th, td {   
+    border: 1px solid black; 
+    border-collapse: collapse; }    
+    th, td {  
+    padding: 10px; }
    </style>
    <link rel="stylesheet" href="tabla.css">
 </body>
 <body>
-     <table>
+     <table style="width: 100%">
          <tr> 
             <th>
                 ETIQUETA HTML
