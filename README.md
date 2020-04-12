@@ -32,54 +32,82 @@ Presaberes
             </th>
          </tr>
          <tr>
-           html
+           <td>
+               HTML
+            </td>
             <td>
                indica el comienzo del documento HTML.
             </td>
          </tr>
-         <tr> head
+         <tr> 
+            <td>
+              HEAD
+            </td>
             <td>
               indica que empieza la cabecera de la página
             </td>
          </tr>
-         <tr> body
+         <tr> 
+           <td>
+              BODY
+            </td>
             <td>
               es el cuerpo de la página, donde va lo que se ve en el navegador al cargar una web
             </td>
          </tr>
-         <tr> h1, h2...
+         <tr> <td>
+              H1, H2...
+            </td>
             <td>
               son los títulos o encabezados
             </td>
          </tr>
-         <tr> a
+         <tr> 
+           <td>
+              a
+            </td>
             <td>
               define los enlaces
             </td>
          </tr>
-         <tr> table
+         <tr> 
+           <td>
+              TABLE
+            </td>
             <td>
               es una tabla, y dentro de esta tenemos filas <tr> y celdas <td>.
             </td>
          </tr>
-         <tr> p
+         <tr> 
+           <td>
+               p
+            </td>
             <td>
                el texto dentro de esta etiqueta forma un párrafo
             </td>
          </tr>
          <tr>
-           img
+           <td>
+               imag
+            </td>
             <td>
                imágenes
             </td>
          </tr>
-         <tr> ul
+         <tr> 
+           <td>
+               ul
+            </td>
             <td> 
-              los textos dentro de esta etiqueta se estructuran en listas. Mediante el uso de <li> definimos cada guión dentro de la lista, y usando <ol> en lugar de <ul> tendremos listas ordenadas
+              los textos dentro de esta etiqueta se estructuran en listas. 
+              Mediante el uso de <li> definimos cada guión dentro  
+              de la lista, y usando <ol> en lugar de <ul> tendremos listas ordenadas
             </td>
          </tr>
          <tr>
-           b y strong 
+           <td>
+              b y strong
+            </td>
             <td>
               se utilizan para resaltar el texto
             </td>
