@@ -32,44 +32,57 @@ Presaberes
             </th>
          </tr>
          <tr>
+           html
             <td>
+               indica el comienzo del documento HTML.
+            </td>
+         </tr>
+         <tr> head
             <td>
+              indica que empieza la cabecera de la página
+            </td>
+         </tr>
+         <tr> body
+            <td>
+              es el cuerpo de la página, donde va lo que se ve en el navegador al cargar una web
+            </td>
+         </tr>
+         <tr> h1, h2...
+            <td>
+              son los títulos o encabezados
+            </td>
+         </tr>
+         <tr> a
+            <td>
+              define los enlaces
+            </td>
+         </tr>
+         <tr> table
+            <td>
+              es una tabla, y dentro de esta tenemos filas <tr> y celdas <td>.
+            </td>
+         </tr>
+         <tr> p
+            <td>
+               el texto dentro de esta etiqueta forma un párrafo
+            </td>
          </tr>
          <tr>
+           img
             <td>
-            <td>
+               imágenes
+            </td>
+         </tr>
+         <tr> ul
+            <td> 
+              los textos dentro de esta etiqueta se estructuran en listas. Mediante el uso de <li> definimos cada guión dentro de la lista, y usando <ol> en lugar de <ul> tendremos listas ordenadas
+            </td>
          </tr>
          <tr>
+           b y strong 
             <td>
-            <td>
-         </tr>
-         <tr>
-            <td>
-            <td>
-         </tr>
-         <tr>
-            <td>
-            <td>
-         </tr>
-         <tr>
-            <td>
-            <td>
-         </tr>
-         <tr>
-            <td>
-            <td>
-         </tr>
-         <tr>
-            <td>
-            <td>
-         </tr>
-         <tr>
-            <td>
-            <td>
-         </tr>
-         <tr>
-            <td>
-            <td>
+              se utilizan para resaltar el texto
+            </td>
          </tr>
       <table>
 </body>
