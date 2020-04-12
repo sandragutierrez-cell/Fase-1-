@@ -25,6 +25,8 @@ Presaberes
     border-collapse: collapse; }    
     th, td {  
     padding: 10px; }
+    th {
+    text-align: left;}
    </style>
    <link rel="stylesheet" href="tabla.css">
 </body>
