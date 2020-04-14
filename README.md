@@ -1,8 +1,7 @@
 # Fase-1-
 Presaberes
 <html lang-"es">
-<meta http-equiv=”Content-Type” content=”text/html; charset=UTF-8″ />
-<head>
+ <head>
   <h1> FASE 1 PRESABERES </h1>
      
      <!-- Se realiza vinculación con un archivo externo de estilos CSS -->
@@ -12,8 +11,8 @@ Presaberes
     h1 { color: #0000FF; }
     { background: gray  }
    </style>
-</head>
-<body>
+ </head>
+  <body>
       <h2>Nombre: Sandra Gutiérrez
           Grupo: 301127_3
           Cedula: 52751401
@@ -34,8 +33,8 @@ Presaberes
     text-align: left;}
    </style>
    <link rel="stylesheet" href="tabla.css">
-</body>
-<body>
+  </body>
+  <body>
      <table style="width: 100%">
          <tr> 
             <th>
@@ -127,8 +126,8 @@ Presaberes
             </td>
          </tr>
       </table>
-</body>
-       <body>
+  </body>
+  <body>
      <table style="width: 100%";
             margin= auto;
             font-family: Arial;>
@@ -332,7 +331,8 @@ width: unset;
             </td>
          </tr>
       </table>
-</body>
+    </body>
+ </html>
 
 
 
